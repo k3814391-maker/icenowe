@@ -1,15 +1,15 @@
 [
   {
-    "id": "game1",
-    "name": "Название игры",
-    "description": "Краткое описание игры. Что в ней интересного?",
-    "cover": "https://via.placeholder.com/200x112?text=Обложка",
-    "version": "1.0.0",
-    "developer": "Студия XYZ",
-    "release_date": "2025-01-15"
+    "id": "1",
+    "name": "Pot Catcher",
+    "description": "Ловля фруктов, кастомизация и много чего.",
+    "cover": "https://img.itch.zone/aW1nLzE5NTQxODQ1LnBuZw==/315x250%23c/yH6NuW.png",
+    "version": "1.0.0.6",
+    "developer": "Txxicu Team",
+    "release_date": "2025-07-26"
   },
   {
-    "id": "game2",
+    "id": "2",
     "name": "Ещё одна игра",
     "description": "Ещё одно крутое приключение ждёт тебя!",
     "cover": "https://via.placeholder.com/200x112?text=Game+2",
