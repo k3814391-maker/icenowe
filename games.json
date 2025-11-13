@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Portal 2",
+    "description": "Физическая головоломка от Valve.",
+    "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+    "status": "downloaded"
+  },
+  {
+    "name": "Stardew Valley",
+    "description": "Фермерская жизнь и приключения.",
+    "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+    "status": "hidden"
+  }
+]
