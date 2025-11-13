@@ -1,14 +1,20 @@
 [
   {
-    "name": "Portal 2",
-    "description": "Физическая головоломка от Valve.",
-    "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
-    "status": "downloaded"
+    "id": "game1",
+    "name": "Название игры",
+    "description": "Краткое описание игры. Что в ней интересного?",
+    "cover": "https://via.placeholder.com/200x112?text=Обложка",
+    "version": "1.0.0",
+    "developer": "Студия XYZ",
+    "release_date": "2025-01-15"
   },
   {
-    "name": "Stardew Valley",
-    "description": "Фермерская жизнь и приключения.",
-    "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
-    "status": "hidden"
+    "id": "game2",
+    "name": "Ещё одна игра",
+    "description": "Ещё одно крутое приключение ждёт тебя!",
+    "cover": "https://via.placeholder.com/200x112?text=Game+2",
+    "version": "0.9.5",
+    "developer": "Indie Team",
+    "release_date": "2024-12-01"
   }
 ]
